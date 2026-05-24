@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:161b22,100:1a1f2e&height=220&section=header&text=Shithanshu%20Mishra&fontSize=56&fontColor=e6edf3&fontAlignY=38&desc=Staff%20Backend%20Engineer%20%E2%80%94%20Distributed%20Systems%20%C2%B7%20Real-Time%20Infrastructure%20%C2%B7%20Payment%20Platforms&descSize=16&descAlignY=58&animation=fadeIn" alt="Shithanshu Mishra — Sr. Software Engineer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:161b22,100:1a1f2e&height=220&section=header&text=Shithanshu%20Mishra&fontSize=56&fontColor=e6edf3&fontAlignY=38&desc=Sr.%20Software%20Engineer%20%E2%80%94%20Distributed%20Systems%20%C2%B7%20Real-Time%20Infrastructure%20%C2%B7%20Payment%20Platforms&descSize=16&descAlignY=58&animation=fadeIn" alt="Shithanshu Mishra — Sr. Software Engineer" />
 </p>
 
 <!-- TYPING -->
